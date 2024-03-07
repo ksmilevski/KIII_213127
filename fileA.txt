@@ -1,2 +1,4 @@
 This is a change in file A.
 Change made in develop branch!
+
+Hello :)
